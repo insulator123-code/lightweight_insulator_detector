@@ -2,6 +2,4 @@
 
 This is the official implementation of our work on lightweight insulator oriented detector.
 
-The code is about to be released.
-
-Due to the confidentiality of our work, we will publish the code and the data after the paper is accepted. If you have any needs, please contact me by email: insulator214@163.com
+Due to the confidentiality of data in the power industry, if you need the relevant code, please contact email chlftian@scut.edu.cn. We will evaluate your needs and send the relevant data to you via email.
